@@ -10,18 +10,16 @@ Assignment3: More on classes and header files
 
 Assignment4: Linked Lists
 
-Lab1:
+Lab1: a.) integer and float operations. b.) Array operations and fuction passing
+ 
+Lab3: More on classes and vectors
 
-Lab2:
+Lab5: Classes, header files and source files
 
-Lab3:
+Lab6: Operator overloading
 
-Lab5:
+Lab8: Recursion
 
-Lab6:
+Lab9: Pointers and linked lists
 
-Lab8:
-
-Lab9:
-
-Lab10:
+Lab10: Circular double linked lists
